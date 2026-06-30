@@ -1,0 +1,96 @@
+{
+  "poplar_ambient": {
+    "subtitle": "subtitles.poplar_ambient",
+    "sounds": [
+      {
+        "name": "dappled_up:ambient1",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient2",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient3",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient4",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient5",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient6",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient7",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient8",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient9",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient10",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient11",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient12",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient13",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient14",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient15",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient17",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient18",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:ambient19",
+        "stream": false
+      }
+    ]
+  },
+  "poplar_wind": {
+    "subtitle": "subtitles.poplar_wind",
+    "sounds": [
+      {
+        "name": "dappled_up:wind1",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:wind2",
+        "stream": false
+      },
+      {
+        "name": "dappled_up:wind3",
+        "stream": false
+      }
+    ]
+  }
+}
