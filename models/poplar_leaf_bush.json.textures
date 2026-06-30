@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "orange": {
+      "name": "orange",
+      "map": {
+        "crop": "orange_poplar_leaf_bush"
+      }
+    },
+    "default": {
+      "name": "default",
+      "map": {
+        "crop": "red_poplar_leaf_bush"
+      }
+    },
+    "yellow": {
+      "name": "yellow",
+      "map": {
+        "crop": "yellow_poplar_leaf_bush"
+      }
+    }
+  }
+}

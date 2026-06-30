@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "small": "shelf_mushroom_stage0"
+      }
+    }
+  }
+}

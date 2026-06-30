@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "red_poplar_leaves"
+      }
+    },
+    "yellow": {
+      "name": "yellow",
+      "map": {
+        "0": "yellow_poplar_leaves"
+      }
+    },
+    "orange": {
+      "name": "orange",
+      "map": {
+        "0": "orange_poplar_leaves"
+      }
+    }
+  }
+}
