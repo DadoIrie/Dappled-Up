@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "dappled_up:stripped_poplar_log",
+    "dappled_up:poplar_wood",
+    "dappled_up:stripped_poplar_wood",
+    "dappled_up:poplar_log"
+  ]
+}

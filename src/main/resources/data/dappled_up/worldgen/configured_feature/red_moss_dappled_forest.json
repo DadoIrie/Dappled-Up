@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:vegetation_patch",
+  "config": {
+    "surface": "floor",
+    "xz_radius": {
+      "type": "uniform",
+      "min_inclusive": 4,
+      "max_inclusive": 5
+    },
+    "vertical_range": 5,
+    "vegetation_feature": {
+      "feature": "dappled_up:red_moss_vegetation",
+      "placement": []
+    },
+    "vegetation_chance": 0.65,
+    "ground_state": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "dappled_up:red_moss_block"
+      }
+    },
+    "replaceable": "#dirt",
+    "depth": {
+      "type": "uniform",
+      "min_inclusive": 1,
+      "max_inclusive": 2
+    },
+    "extra_bottom_block_chance": 0,
+    "extra_edge_column_chance": 0.3
+  }
+}

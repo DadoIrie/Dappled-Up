@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hanging_sign",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bbb",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:chain"
+    },
+    "b": {
+      "item": "dappled_up:stripped_poplar_log"
+    }
+  },
+  "result": {
+    "id": "dappled_up:poplar_hanging_sign",
+    "count": 6
+  }
+}

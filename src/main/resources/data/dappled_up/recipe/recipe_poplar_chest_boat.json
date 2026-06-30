@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chest_boat",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "item": "dappled_up:poplar_boat"
+    }
+  ],
+  "result": {
+    "id": "dappled_up:poplar_boat_with_chest",
+    "count": 1
+  }
+}

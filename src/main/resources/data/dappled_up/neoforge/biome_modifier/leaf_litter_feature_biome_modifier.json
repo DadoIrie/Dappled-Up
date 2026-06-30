@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "dappled_up:dappled_forest",
+  "features": "dappled_up:leaf_litter_feature",
+  "step": "vegetal_decoration"
+}

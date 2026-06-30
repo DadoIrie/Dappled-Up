@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "dappled_up:dappled_forest",
+  "features": "dappled_up:red_poplar",
+  "step": "surface_structures"
+}

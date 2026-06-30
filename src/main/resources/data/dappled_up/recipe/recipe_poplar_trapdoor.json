@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_trapdoor",
+  "category": "redstone",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dappled_up:poplar_planks"
+    }
+  },
+  "result": {
+    "id": "dappled_up:poplar_trapdoor",
+    "count": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "dappled_up:dappled_forest",
+  "features": "dappled_up:coarse_dirt_dappled_forest",
+  "step": "top_layer_modification"
+}

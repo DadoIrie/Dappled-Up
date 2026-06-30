@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boat",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dappled_up:poplar_planks"
+    }
+  },
+  "result": {
+    "id": "dappled_up:poplar_boat",
+    "count": 1
+  }
+}
